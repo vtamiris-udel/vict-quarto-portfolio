@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Welcome to My Portfolio!"
 format: html
